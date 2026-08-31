@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+
+# PyInstaller / packaging
+build/
+dist/
+*.manifest
+
+# Local project files (contain machine-specific video paths)
+*.sasproj
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+Desktop.ini
